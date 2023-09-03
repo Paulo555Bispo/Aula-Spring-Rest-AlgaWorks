@@ -59,4 +59,5 @@ public class ApiExceptionHandler extends ResponseEntityExceptionHandler {
 
     }
 }
-//TODO  - PRÓXIMO VÍDEO A SER ASSISTIDO SERÁ O 3.1
+//TODO  - PRÓXIMO VÍDEO A SER ASSISTIDO SERÁ O
+//  3.2 - Validação em cascata e Validation Groups
