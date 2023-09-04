@@ -2,8 +2,8 @@
 
 ![image](https://github.com/Paulo555Bispo/Aula-Spring-Rest-AlgaWorks/assets/63209799/773eac93-8a6b-46d6-b8b0-dd3950f591da)
 
+![image](https://github.com/Paulo555Bispo/Aula-Spring-Rest-AlgaWorks/assets/63209799/99d22bb3-3e58-4a9e-9b91-be3cda0d88f7)
 
-![image](https://github.com/Paulo555Bispo/Aula-Spring-Rest-AlgaWorks/assets/63209799/1073887e-77ac-4f63-86b5-6b55996a6dde)
 
 # Assuntos tratados nestas aulas:
 - Fundamentos de REST.
