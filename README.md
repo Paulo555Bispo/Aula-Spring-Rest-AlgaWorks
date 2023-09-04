@@ -29,7 +29,9 @@ https://orange-rocket-51008.postman.co/workspace/My-Workspace~e5d7a212-6642-4a42
 Simple, Intelligent, Object Mapping.
 
 - Por que Map?
+
 Os aplicativos geralmente consistem em modelos de objetos semelhantes, mas diferentes, onde os dados em dois modelos podem ser semelhantes, mas a estrutura e as preocupações dos modelos são diferentes. O mapeamento de objetos facilita a conversão de um modelo em outro, permitindo que modelos separados permaneçam segregados.
 
 - Por que ModelMapper?
+  
 O objetivo do ModelMapper é facilitar o mapeamento de objetos, determinando automaticamente como um modelo de objeto é mapeado para outro, com base em convenções, da mesma forma que um ser humano faria - ao mesmo tempo em que fornece uma API simples e segura para refatoração para lidar com casos de uso específicos.
